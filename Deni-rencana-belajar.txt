@@ -1,0 +1,5 @@
+RENCANA BELAJAR WEB DEVELOPMENT
+
+-BelajarUI/UX
+-Belajar teknologi Frontend
+-mendalami Javascript
