@@ -6,4 +6,6 @@ RENCANA BELAJAR WEB DEVELOPMENT
 -edit video master
 -Belajar teknologi Frontend
 -mendalami Javascript
--
+- angular
+- laravel
+
