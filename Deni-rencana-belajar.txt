@@ -7,3 +7,4 @@ RENCANA BELAJAR WEB DEVELOPMENT
 -Belajar teknologi Frontend
 -mendalami Javascript
 - lslaravel
+-framework react
