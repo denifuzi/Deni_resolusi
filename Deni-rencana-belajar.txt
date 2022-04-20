@@ -1,5 +1,8 @@
 RENCANA BELAJAR WEB DEVELOPMENT
 
 -BelajarUI/UX
+  * Design System
+  * guide line
 -Belajar teknologi Frontend
 -mendalami Javascript
+-
