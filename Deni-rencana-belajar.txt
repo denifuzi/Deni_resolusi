@@ -1,11 +1,11 @@
 RENCANA BELAJAR WEB DEVELOPMENT
 
 -BelajarUI/UX
-  * Design System
+  * Design System view
   * guide line
 -edit video master
 -Belajar teknologi Frontend
 -mendalami Javascript
-- angular
-- laravel
+- lslaravel
+-framework react
 
